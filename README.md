@@ -1,43 +1,14 @@
-# Food Delivery
+# Food Delivery Application
+![image](https://github.com/jennierj05/fooddeliveryapp/assets/149866579/2b27af72-9f00-4457-aa66-2570ed6ec339)
 
-<div align="center">
-  <img width="200px" src="https://cdn-icons-png.flaticon.com/512/4039/4039232.png"/>
-</div>
-<br>
+![image](https://github.com/jennierj05/fooddeliveryapp/assets/149866579/fc7eb271-7b3b-4e55-b69c-39d0a53bf3a5)
 
-> Food Delivery app made using MERN stack (UNDER DEVLOPEMENT) <br>
-> APP uses morden React and NodeJS features like Modules ,Skeletons , React Portals ,Redux thunk<br>
-> Followed MVC architecture and microservices for serever side
+![image](https://github.com/jennierj05/fooddeliveryapp/assets/149866579/2e34c3ad-a349-43ec-a4aa-2f6664f0b32e)
 
-## ⚙️ Detailed Functionality
 
-- Users have to authenticate themselves by Email
-- User can add carts items to cart
-- Users can update quantity delete the item
-- User can check the summry of ordre like items price ,delivery price and total
-- User can select COD or online (Razorpay) payment for order
-- After Placing order user will redirect to ordere details page and recives an email of order
-- User can view there old orders and profile
-- User can add , edit or delete address while checkout
+![image](https://github.com/jennierj05/fooddeliveryapp/assets/149866579/b02c2553-9f10-42d3-912d-71455c17bef6)
 
-## 🚀 Tech and Tools Used
+![image](https://github.com/jennierj05/fooddeliveryapp/assets/149866579/f2ed8fcd-bc99-45f2-a414-e0825d0e43a1)
 
-- React.JS ,Redux ,NodeJS ,ExpressJs,MongoDB
-- VS code,Heruko
-- React Icons,REST APIS ,JWT ,GoogleAPIs,Yup
 
-## 📸 Screenshots
 
-## Home Page
-
-<img src="./frontend/src/assests/mern-food-delivery-app.herokuapp.com_.png" width='800' height='auto'>
-<br>
-
-## Pizza Builder Page
-
-<img src="./custom-pizza.png" width='800' height='auto'>
-<br>
-
-### LINK :
-
-https://rio-ci4k.onrender.com/
