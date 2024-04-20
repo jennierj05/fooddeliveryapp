@@ -8,11 +8,6 @@ import { emailTemplate, isAuth } from "../utlis.js";
 const orderRouter= express.Router()
 
 
-const CLIENT_ID='47384081821-if2foogmo9lv185u2o8ijqa36937otr3.apps.googleusercontent.com';
-const CLIENT_SECRET='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';
-const REDIRECT_URI='https://developers.google.com/oauthplayground';
-const REFRESH_TOKEN='1//04exMZMaUA_BTCgYIARAAGAQSNwF-L9IrcSS4FaKEdRBdfEiYdptXQPgsA7dZqRUEytqNcsED-0YzGhrsmoD23484-nhbsV9Pe00';
-
 
 const oAuth2Client = new google.auth.OAuth2(CLIENT_ID,CLIENT_SECRET,REDIRECT_URI);
 oAuth2Client.setCredentials({refresh_token:REFRESH_TOKEN});
